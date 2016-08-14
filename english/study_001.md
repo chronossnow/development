@@ -26,3 +26,10 @@
 | My monther | plays | 三人称単数 |
 | We | play | 複数 |
 | They | play | 複数 |
+
+### this/that/thses/those
+
+* 近くのものをさす場合はthis(これ)
+* 離れたところにあるものをさす場合はthat(あれ）
+* 複数の近くのものをさす場合はthisのかわりにthses(これら）
+* 複数の離れたところにあるものをさす場合はthatのかわりにthose(あれら)
