@@ -1,5 +1,4 @@
-### BE動詞整理
-
+### be動詞整理
 | 主語 | be動詞 | 備考 |
 | ---- | ------ | ---- |
 | I | am | |
@@ -15,7 +14,6 @@
 | They | are | 複数 |
 
 ### 一般動詞整理
-
 | 主語 | 一般動詞 | 備考 |
 | ---- | -------- | ---- |
 | I | play | |
@@ -33,3 +31,25 @@
 * 離れたところにあるものをさす場合はthat(あれ）
 * 複数の近くのものをさす場合はthisのかわりにthses(これら）
 * 複数の離れたところにあるものをさす場合はthatのかわりにthose(あれら)
+
+### be動詞の否定整理
+| 主語 | be動詞 | 否定 |
+| ---- | ------ | ---- |
+| I | am | not |
+| You | are | not |
+| We | are | not |
+| They | are | not |
+| He | is | not |
+| She | is | not |
+| It | is | not |
+
+### 一般動詞の否定整理
+| 主語 | 否定 | 一般動詞 | 備考 |
+| ---- | ---- | -------- | ---- |
+| I | do not | play | |
+| You | do not | play | |
+| We | do not | play | 複数 |
+| They | do not | play | 複数 |
+| He | dose not | play | 三人称単数 |
+| She | dose not | play | 三人称単数 |
+| It | dose not | play | 三人称単数 |
