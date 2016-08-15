@@ -61,6 +61,18 @@
 | every day | 毎日 | 文章の最後に入れる |
 | here | ここで | 文章の最後に入れる |
 | well | じょうずに |文章の最後に入れる |
+
+### be動詞の時のalways/usually/often/sometimes
+| 副詞 | 意味 | 備考 |
+| ---- | ---- | ---- |
+| always | いつも | be動詞の後に入れる |
+| usually | たいてい | be動詞の後に入れる |
+| often | よく | be動詞の後に入れる |
+| sometimes | ときどき | be動詞の後に入れる |
+
+### 一般動詞の時のalways/usually/often/sometimes
+| 副詞 | 意味 | 備考 |
+| ---- | ---- | ---- |
 | always | いつも | 一般動詞の前に入れることが多い |
 | usually | たいてい | 一般動詞の前に入れることが多い |
 | often | よく | 一般動詞の前に入れることが多い |
