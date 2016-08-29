@@ -1,4 +1,7 @@
+### 整理
 
+| 単語 | 意味 | 単語 | 意味 |
+| ---- | ---- | ---- | ---- |
 | unpleasant | 不愉快な | pleasant | 愉快な |
 | relaxing | リラックス | stressful | ストレス |
 | noisy | 騒々しい | quiet | 静かな |
